@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileProductApp", "MobileProductApp\MobileProductApp.csproj", "{739514A1-2AC7-435A-A263-B4FF8608AE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileProductAPI", "MobileProductAPI\MobileProductAPI.csproj", "{2A8B1561-B579-4982-BB1F-09466FFDBFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739514A1-2AC7-435A-A263-B4FF8608AE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739514A1-2AC7-435A-A263-B4FF8608AE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739514A1-2AC7-435A-A263-B4FF8608AE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739514A1-2AC7-435A-A263-B4FF8608AE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8B1561-B579-4982-BB1F-09466FFDBFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8B1561-B579-4982-BB1F-09466FFDBFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8B1561-B579-4982-BB1F-09466FFDBFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8B1561-B579-4982-BB1F-09466FFDBFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

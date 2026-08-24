@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "MobileProductApp\\MobileProductApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MobileProductAPI\\MobileProductAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
